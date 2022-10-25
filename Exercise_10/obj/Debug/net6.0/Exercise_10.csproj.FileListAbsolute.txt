@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\bin\Debug\net6.0\Exercise_10.exe
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\bin\Debug\net6.0\Exercise_10.deps.json
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\bin\Debug\net6.0\Exercise_10.runtimeconfig.json
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\bin\Debug\net6.0\Exercise_10.dll
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\bin\Debug\net6.0\Exercise_10.pdb
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.dll
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\refint\Exercise_10.dll
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.pdb
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\Exercise_10.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Курс\HomeWork(unit3)\HomeWork\HomeWork_2\Exercise_10\obj\Debug\net6.0\ref\Exercise_10.dll
